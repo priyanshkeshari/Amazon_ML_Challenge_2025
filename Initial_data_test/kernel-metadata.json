@@ -1,0 +1,10 @@
+{
+  "id": "priyanshkeshari/multi-text-embeddings-on-gpu-v3",
+  "title": "Multi Text Embeddings on GPU v3",
+  "code_file": "text_sbert_embeddings_3.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true
+}
