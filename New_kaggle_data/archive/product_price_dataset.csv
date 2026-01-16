@@ -1,0 +1,123 @@
+ProductID,ProductName,Brand,Category,Weight,Dimensions,Material,Color,Rating,NumReviews,Price
+1,Laptop,XYZ Corp,Laptops,2.5,13x9x0.7,Aluminum,Silver,4.5,120,1200
+2,Smartphone,ABC Inc,Mobile Phones,0.2,5.7x2.8x0.3,Glass,Black,4.8,300,800
+3,Headphones,SoundWave,Electronics,0.4,8x7x2,Plastic,White,4.3,80,100
+4,Smartwatch,TechGuru,Wearable Tech,0.1,1.5x1.5x0.4,Plastic,Black,4.6,150,250
+5,Bluetooth Speaker,AudioKing,Audio Devices,1.0,7x7x3,Metal,Red,4.2,50,80
+6,Gaming Console,GameTech,Video Games,3.0,15x10x2,Plastic,Black,4.7,200,400
+7,Tablet,TabCo,Tablets,0.5,9x6x0.3,Plastic,Blue,4.4,100,300
+8,Camera,CamCo,Photography,0.8,4x3x2,Metal,Black,4.9,150,600
+9,Drone,SkyHigh,Photography,1.5,12x12x4,Plastic,White,4.6,80,700
+10,Fitness Tracker,FitLife,Fitness & Health,0.1,2x2x0.5,Plastic,Green,4.5,60,150
+11,Wireless Mouse,TechMice,Computer Accessories,0.1,3x2x1,Plastic,Black,4.3,50,20
+12,External Hard Drive,DataVault,Computer Accessories,0.3,5x3x0.5,Metal,Silver,4.6,100,80
+13,Desk Lamp,LightWorks,Home & Office,0.5,10x5x5,Metal,White,4.2,30,40
+14,Electric Kettle,HotStream,Kitchen Appliances,1.0,8x6x8,Stainless Steel,Black,4.5,70,30
+15,Portable Charger,PowerUp,Mobile Accessories,0.2,4x2x1,Plastic,Blue,4.1,40,15
+16,Wireless Earbuds,SonicBlast,Audio Devices,0.05,2x2x1,Plastic,White,4.7,200,100
+17,Power Bank,ChargePro,Mobile Accessories,0.15,3x2x0.5,Plastic,Black,4.4,150,25
+18,Car Phone Holder,AutoGrip,Car Accessories,0.1,5x3x2,Plastic,Black,4.0,20,10
+19,Portable Bluetooth Speaker,SoundWave,Audio Devices,0.3,6x4x3,Plastic,Red,4.3,80,50
+20,Wireless Charging Pad,ChargeX,Mobile Accessories,0.2,4x4x0.5,Plastic,White,4.5,120,30
+21,Smart Thermostat,SmartHome,Home Appliances,0.2,3x3x1,Plastic,White,4.8,100,150
+22,Robot Vacuum,CleanBot,Home Appliances,2.5,12x12x3,Plastic,Black,4.6,200,300
+23,Electric Toothbrush,OralTech,Personal Care,0.3,8x1x1,Plastic,Blue,4.7,80,50
+24,Wireless Keyboard,KeyTech,Computer Accessories,0.5,12x6x1,Plastic,Black,4.4,90,40
+25,Smart Doorbell,SecureTech,Home Security,0.3,5x2x1,Plastic,Silver,4.5,120,120
+26,Portable Blender,BlendMaster,Kitchen Appliances,0.8,6x4x4,Plastic,Green,4.2,60,40
+27,Wireless Security Camera,SecureCam,Home Security,0.4,4x3x3,Plastic,White,4.3,100,80
+28,Folding Electric Scooter,EcoRide,Outdoor & Sports,10.0,40x20x10,Aluminum,Black,4.6,150,400
+29,Smart Scale,FitLife,Fitness & Health,1.0,12x12x1,Glass,Black,4.8,200,70
+30,Electric Shaver,SmoothTech,Personal Care,0.2,5x2x2,Plastic,Black,4.5,100,60
+31,Coffee Maker,CaféTech,Kitchen Appliances,1.5,10x8x12,Stainless Steel,Black,4.4,180,80
+32,Gaming Mouse,GamerGear,Computer Accessories,0.15,3x2x1,Plastic,RGB,4.7,250,50
+33,Smart Light Bulb,SmartGlow,Home & Office,0.1,2x2x4,Plastic,White,4.3,120,20
+34,Bluetooth Car Kit,CarConnect,Car Accessories,0.1,4x3x1,Plastic,Black,4.1,60,30
+35,Wireless Presenter,PresentationPro,Office Supplies,0.05,4x1x1,Plastic,Black,4.5,40,20
+36,Noise Cancelling Headphones,SoundBlast,Audio Devices,0.4,8x7x2,Plastic,Black,4.6,180,100
+37,Portable Monitor,ScreenFlex,Computer Accessories,0.6,12x8x1,Plastic,Black,4.2,70,150
+38,Smart Plug,PlugSmart,Home Automation,0.1,2x2x2,Plastic,White,4.4,90,20
+39,Smart Glasses,SmartEyes,Wearable Tech,0.1,6x2x2,Plastic,Black,4.2,80,200
+40,Desk Organizer,OrganizeIt,Home & Office,0.3,8x4x4,Plastic,White,4.0,30,15
+41,Smart Alarm Clock,SmartRise,Home & Office,0.2,4x4x2,Plastic,White,4.5,100,25
+42,Wireless Charging Stand,ChargePro,Mobile Accessories,0.3,4x4x3,Plastic,Black,4.3,80,30
+43,Bluetooth FM Transmitter,CarTune,Car Accessories,0.1,3x2x1,Plastic,Black,4.2,60,20
+44,Electric Scooter,EcoRide,Outdoor & Sports,12.0,40x20x10,Aluminum,Black,4.7,300,500
+45,Smart Home Hub,HomeConnect,Home Automation,0.3,4x4x1,Plastic,White,4.6,200,100
+46,Smart Mirror,SmartView,Home & Office,1.0,24x16x1,Glass,Black,4.8,150,200
+47,Wireless Charging Car Mount,DriveCharge,Car Accessories,0.2,5x4x2,Plastic,Black,4.4,120,40
+48,Smart Door Lock,SecureLock,Home Security,0.5,6x3x1,Plastic,Silver,4.5,180,150
+49,Fitness Smartwatch,FitPro,Wearable Tech,0.1,2x2x0.5,Plastic,Black,4.4,250,120
+50,Bluetooth Earphones,AudioBlast,Audio Devices,0.05,2x2x1,Plastic,Black,4.3,150,60
+51,Smart LED Strip Lights,SmartGlow,Home & Office,0.3,10x1x0.5,Plastic,RGB,4.2,100,20
+52,Portable Espresso Machine,CaféOnTheGo,Kitchen Appliances,0.6,7x3x3,Plastic,Black,4.6,90,80
+53,Wireless Charging Mouse Pad,ChargeX,Computer Accessories,0.4,10x8x0.5,Plastic,Black,4.3,70,25
+54,Electric Skateboard,SkateTech,Outdoor & Sports,8.0,36x9x5,Wood,Black,4.5,200,400
+55,Smart Wi-Fi Plug,PlugSmart,Home Automation,0.1,2x2x2,Plastic,White,4.4,120,20
+56,Bluetooth Beanie,SoundWarmth,Apparel & Accessories,0.1,10x8x1,Fabric,Black,4.2,80,25
+57,Smart Bike Lock,SecureRide,Outdoor & Sports,0.5,5x3x1,Plastic,Silver,4.5,150,50
+58,Portable UV Sanitizer,UVSafe,Personal Care,0.3,8x4x2,Plastic,White,4.6,100,30
+59,Wireless Charging Desk Lamp,LightCharge,Home & Office,0.8,6x6x12,Plastic,Black,4.3,80,70
+60,Smart Water Bottle,HydroSmart,Health & Wellness,0.2,3x3x10,Plastic,Blue,4.7,200,40
+61,Bluetooth Shower Speaker,ShowerTunes,Audio Devices,0.3,4x4x2,Plastic,White,4.4,150,20
+62,Smart Garden,GreenThumb,Home & Garden,2.0,12x12x12,Plastic,Green,4.6,180,100
+63,Wireless Charging Pad with Organizer,ChargePlus,Home & Office,0.5,8x6x1,Plastic,Black,4.2,90,40
+64,Smart Backpack,SmartPack,Travel & Luggage,1.0,18x12x6,Nylon,Black,4.5,200,50
+65,Portable Ice Maker,IceMaster,Kitchen Appliances,1.5,10x12x15,Plastic,Silver,4.4,120,150
+66,Smart Pet Feeder,PetSmart,Pet Supplies,1.2,8x8x12,Plastic,White,4.8,250,80
+67,Wireless Charging Mouse,ChargeMouse,Computer Accessories,0.2,4x3x1,Plastic,Black,4.3,100,30
+68,Smart Umbrella,WeatherSmart,Apparel & Accessories,0.5,10x10x1,Nylon,Black,4.6,150,40
+69,Bluetooth BBQ Thermometer,GrillMaster,Outdoor & Sports,0.2,6x2x1,Metal,Black,4.4,80,30
+70,Smart Wallet,SecureWallet,Apparel & Accessories,0.1,4x3x0.5,Leather,Black,4.7,200,50
+71,Wireless Charging Desk Organizer,ChargeDesk,Home & Office,0.7,12x6x4,Plastic,Black,4.5,120,60
+72,Smart Watering System,GreenThumb,Home & Garden,1.5,8x8x10,Plastic,Green,4.6,180,100
+73,Bluetooth Remote Control,RemotePro,Home & Office,0.1,3x2x1,Plastic,Black,4.4,90,20
+74,Wireless Charging Bedside Lamp,ChargeLight,Home & Office,0.5,5x5x10,Plastic,White,4.3,70,80
+75,Smart Skipping Rope,FitnessSmart,Fitness & Health,0.3,10x1x1,Plastic,Black,4.5,150,20
+76,Portable Clothes Steamer,SteamPro,Home Appliances,0.6,8x6x4,Plastic,White,4.6,100,40
+77,Wireless Charging Car Mount with Auto-Clamp,AutoCharge,Car Accessories,0.3,6x4x2,Plastic,Black,4.4,120,50
+78,Smart Bicycle Helmet,HelmetSmart,Outdoor & Sports,0.5,10x8x6,Plastic,Black,4.7,200,100
+79,Bluetooth Car Locator,CarFinder,Car Accessories,0.1,2x2x1,Plastic,Black,4.5,150,20
+80,Smart Posture Corrector,PostureSmart,Health & Wellness,0.3,6x4x1,Nylon,Black,4.6,180,30
+81,Smart Wi-Fi Thermostat,TempControl,Home Appliances,0.3,4x4x1,Plastic,White,4.7,200,120
+82,Wireless Charging Alarm Clock,ChargeAlarm,Home & Office,0.5,6x4x2,Plastic,Black,4.5,150,40
+83,Smart Water Leak Detector,LeakGuard,Home Security,0.2,3x3x1,Plastic,White,4.6,100,30
+84,Bluetooth Meat Thermometer,GrillMaster,Kitchen Appliances,0.1,2x2x1,Metal,Black,4.4,80,20
+85,Smart Sleep Mask,SleepWell,Health & Wellness,0.1,8x4x1,Fabric,Black,4.6,120,25
+86,Wireless Charging Nightstand,ChargeNight,Home & Office,1.0,16x16x20,Wood,Black,4.3,180,100
+87,Smart Kitchen Scale,KitchenPro,Kitchen Appliances,0.5,10x8x1,Plastic,White,4.5,200,50
+88,Portable Air Purifier,AirPure,Home Appliances,0.8,6x6x10,Plastic,White,4.4,150,70
+89,Bluetooth Smart Lock,SecureLock,Home Security,0.3,5x3x1,Plastic,Silver,4.7,250,80
+90,Wireless Charging Coaster,ChargeCoast,Home & Office,0.2,4x4x0.5,Plastic,Black,4.5,120,20
+91,Smart Notebook,NoteSmart,Home & Office,0.2,8x6x0.5,Paper,Black,4.3,100,15
+92,Wireless Charging Mouse Pad with Wrist Rest,ChargePad,Computer Accessories,0.5,10x8x1,Foam,Black,4.6,150,30
+93,Smart Diffuser,AromaSmart,Home & Office,0.3,6x6x8,Plastic,White,4.4,180,40
+94,Bluetooth Sleep Headphones,SleepTunes,Audio Devices,0.2,10x8x2,Fabric,Black,4.5,200,50
+95,Smart Air Fryer,AirChef,Kitchen Appliances,1.5,12x10x10,Plastic,Black,4.6,220,120
+96,Wireless Charging Desk Organizer with Lamp,ChargeDesk,Home & Office,1.2,10x8x12,Plastic,White,4.4,160,70
+97,Smart Light Switch,SwitchSmart,Home Automation,0.2,4x4x1,Plastic,White,4.7,250,30
+98,Wireless Charging Valet Tray,ChargeValet,Home & Office,0.5,8x6x2,Plastic,Black,4.5,150,40
+99,Bluetooth Wine Opener,WineMaster,Kitchen Appliances,0.3,2x2x8,Metal,Silver,4.6,200,30
+100,Smart Garbage Can,SmartBin,Home & Office,2.0,12x12x24,Plastic,Black,4.5,180,80
+101,Wireless Charging Bedside Table,ChargeTable,Home & Office,2.5,20x16x20,Wood,Brown,4.4,200,100
+102,Smart Plant Pot,GreenThumb,Gardening & Lawn Care,0.5,6x6x6,Plastic,White,4.7,250,60
+103,Bluetooth Picture Frame,FrameMe,Home Decor,0.3,8x6x1,Plastic,Black,4.5,150,40
+104,Smart Dog Collar,PetTech,Pet Supplies,0.2,8x1x0.5,Nylon,Black,4.6,200,50
+105,Wireless Charging Desk Lamp with Speaker,ChargeLamp,Home & Office,1.0,10x8x16,Plastic,White,4.4,180,90
+106,Smart Remote Control,RemoteSmart,Home & Office,0.1,3x2x1,Plastic,Black,4.7,250,20
+107,Wireless Charging Desk Fan,ChargeFan,Home & Office,0.7,6x6x10,Plastic,Black,4.6,200,60
+108,Smart Dog Feeder,PetFeeder,Pet Supplies,1.0,12x12x8,Plastic,White,4.5,180,70
+109,Bluetooth Smart Bulb,BulbSmart,Home & Office,0.1,2x2x4,Plastic,White,4.7,200,20
+110,Wireless Charging Wall Clock,ChargeClock,Home & Office,0.5,12x12x1,Plastic,Black,4.6,150,50
+111,Smart Sun Hat,SunSmart,Apparel & Accessories,0.1,12x10x6,Fabric,Beige,4.5,100,20
+112,Wireless Charging Desk Clock,ChargeClock,Home & Office,0.3,6x4x1,Plastic,White,4.4,120,30
+113,Bluetooth Water Bottle,HydroTech,Health & Wellness,0.2,3x3x10,Plastic,Blue,4.6,150,25
+114,Smart Cutting Board,KitchenSmart,Kitchen Accessories,0.5,12x8x1,Wood,Brown,4.5,180,40
+115,Wireless Charging Makeup Mirror,ChargeMirror,Home & Office,0.8,10x6x16,Plastic,Black,4.7,200,80
+116,Smart Luggage Tag,TagSmart,Travel & Luggage,0.1,4x2x0.2,Plastic,Black,4.6,150,15
+117,Bluetooth Baby Monitor,BabyMonitor,Parenting & Baby Care,0.2,6x4x2,Plastic,White,4.5,120,40
+118,Wireless Charging Coaster Set,ChargeSet,Home & Office,0.5,6x6x0.5,Plastic,Black,4.4,100,35
+119,Smart Bike Light,BikeSmart,Cycling Accessories,0.1,4x2x1,Plastic,Red,4.7,200,25
+120,Bluetooth Travel Speaker,TravelTunes,Audio Devices,0.3,6x4x2,Plastic,Black,4.6,180,60
+
+
